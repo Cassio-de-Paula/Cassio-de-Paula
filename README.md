@@ -1,5 +1,3 @@
-# Hello there 👋
-
 # About Me
 - 💻 FullStack Web Developer 🖱️
 - 🔎 Curious, and ready to learn
