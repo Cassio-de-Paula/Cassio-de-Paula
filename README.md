@@ -1,7 +1,6 @@
 # About Me
 - 💻 FullStack Web Developer 🖱️
 - 🔎 Curious, and ready to learn
-- 🤖 Tech Lover <3
 - 🎶 Music is life
 - ✝️ "So if the Son sets you free, you will be free indeed". John 8:36
 - 📚 Systems Analysis and Development IFRS
